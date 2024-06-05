@@ -1,1 +1,1 @@
-# Project3_Expensetracker
+Expense tracker allows us to manage expenses efficiently
